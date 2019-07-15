@@ -6,7 +6,7 @@ This is an algorithm for finding the probablity. In 2003, for the first time thi
 ### LDA or Latent Dirichlet Allocation
 
 In order to know LDA, we need to assume certain things
-- If ain any text corpus, there are many documents and some documents in it, share same topics, then it is obvious that the collection of words in those documents will also be same.
+- In any text corpus, there are many documents, if some documents in it, share same topics, then it is obvious that the collection of words in those documents will also be same.
 - We can get the Latent Topics upon analyzing those words which are coming frequently a given document from the text corpus
 
 For Example: If some document is talking about Football, then it is obvious that, there will be certain words which may come frequently such as player, mid-fielder, striker, referry and etc. 
