@@ -32,11 +32,9 @@ Or bring me the TOP 10 words in any particular topic.
 Remember, that LDA will not name the Topic for you, it will only tell you that "Topic 2" following words in high probablity, and now as a user we will have to decide an appropriate topic name for it. 
 
 So, now we can say in confidence that, what LDA does is to
-- Represent the documents as a mixture of Topics (some high and some low probability)
-- Represent the Topics as mixture of words (some high and some low probability)
-
-
+Represent the documents as a mixture of Topics (some high and some low probability)
+And also Represent the Topics as mixture of words (some high and some low probability)
 
 
 - [Main Page](README.md)
-- [How LDA Words](topic-modeling.md)
+- [What is Topic Modeling](topic-modeling.md)
