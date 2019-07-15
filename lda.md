@@ -35,5 +35,8 @@ So, now we can say in confidence that, what LDA does is to
 - Represent the documents as a mixture of Topics (some high and some low probability)
 - Represent the Topics as mixture of words (some high and some low probability)
 
+
+
+
 - [Main Page](README.md)
 - [How LDA Words](topic-modeling.md)
