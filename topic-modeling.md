@@ -16,4 +16,5 @@ So what Topic Modeling does is, it divides a text corpus (i.e. documents inside 
 
 It also provides us the probablity of Words found in any perticular topic w.r.t. to all documents. 
 
-
+- [Main Page](README.md)
+- [What is Latent Dirichlet Allocation](lda.md)
