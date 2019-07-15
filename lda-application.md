@@ -34,7 +34,8 @@ Then we will assign a new word to the topic t, where the topic t will be represe
 
 ```
 p(topic t | document d) * p(word w | topic t)
-means we are multiplying the probablity of the topic t in document d with the probablity of that word w in the topic t
+means we are multiplying the probablity of the topic t in document d 
+with the probablity of that word w in the topic t
 ```
 
 By doing this, we will get the probablity representation of the word which is given to us by the Topic. 
