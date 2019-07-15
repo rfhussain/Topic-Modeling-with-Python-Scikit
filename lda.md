@@ -37,4 +37,4 @@ And also Represent the Topics as mixture of words (some high and some low probab
 
 
 - [Main Page](README.md)
-- [What is Topic Modeling](topic-modeling.md)
+- [What is Topic Modeling](lda-application.md)
