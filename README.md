@@ -1,5 +1,5 @@
 ﻿# Topic-Modeling-with-Python-Scikit
-This is a tutorial along with the code for how to perform a topic modeling using unsupervised machine learning
+This is a tutorial along with the code for how to perform a topic modeling using Un-Supervised Machine Learning technique LDA
 
 ### Table of Contents
 1. [Machine Learning](machine-learning.md)
