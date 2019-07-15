@@ -8,7 +8,12 @@ So, Topic Modeling in our article, isn't about Supervised Learing.
 
 We get text-corpus in our daily life. A machine is unable to determine whether the text is of positive nature or negative. Or if we are getting emails, then whether it is a spam email or a legitimate (ham) email. 
 
-In reality, the text received by a machine can have N number of Labels. 
+In reality, the text received by a machine can have N number of Labels.
 
+For example, if there's an article from the news paper, then it will be without any Label (Negative or Positive) initially. So being Data Scientists, it will be our job to determine the nature of the text, using the Topic Modeling technique and to conclude what is it's kind. 
+
+So what Topic Modeling does is, it divides a text corpus (i.e. documents inside that text corpus) into multiple topics and provides us the probablity representation of each topic inside documents. 
+
+It also provides us the probablity of Words found in any perticular topic w.r.t. to all documents. 
 
 
