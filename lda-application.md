@@ -18,24 +18,24 @@ Which is why in the next stage, we are going to enumerate through each word in e
 
 We will apply the following on all topics from each document
 
-'''
+```
 p(topic t | document d) 
 means the probability of each topic by each document
-'''
+```
 
 Then we will apply the same for each word against the Topic as follows
 
-'''
+```
 p(word w | topic t) 
 means the probability of each word by each topic
-'''
+```
 
 Then we will assign a new word to the topic t, where the topic t will be represented in the following way
 
-'''
+```
 p(topic t | document d) * p(word w | topic t)
 means we are multiplying the probablity of the topic t in document d with the probablity of that word w in the topic t
-'''
+```
 
 By doing this, we will get the probablity representation of the word which is given to us by the Topic. 
 
